@@ -1,5 +1,11 @@
-## Hi there 👋
-
+  💁🏻 Hi, I am Abhi :)
+ 🔭 I’m currently persuing BCA ...
+- 🌱 I’m currently learning DSA & Web DEV ...
+- 🤔 I’m looking for projects to contribute  ...
+- 💬 Ask me about Games and Devlopment ...
+- 📫 How to reach me: my official email is already here 
+- 😄 Pronouns: He/Him
+- ⚡ Fun fact: Love animals (i'd pet an alligator)
 <!--
 **Abhi-Das-003/Abhi-Das-003** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
